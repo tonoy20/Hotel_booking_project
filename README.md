@@ -1,1 +1,1 @@
-This is a Hotel searching and booking project with admin panelr. This project has searching and booking facility with google maps pointing that hotel and hotel room that dynamically change with booking dates. The admin panel has a dashboard that shows income with charts.
+This is a Hotel searching and booking project with admin panel. This project has searching and booking facility with google maps pointing that hotel and hotel room that dynamically change with booking dates. The admin panel has a dashboard that shows income with charts.
