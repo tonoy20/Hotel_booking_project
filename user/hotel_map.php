@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="32x32" href="images/icon/favicon.ico">
     <title>Hotel Map Location</title>
-    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyDml6smJyhfAiXdEJl13CA6DFbbVj3SUJI" defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=API_KEY" defer></script>
 
     <script>
     function initMap() {
